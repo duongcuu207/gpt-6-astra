@@ -1,4 +1,4 @@
-# 🚀 Astra 6 — Hướng dẫn kích hoạt & sử dụng
+# Astra 6 — Hướng dẫn kích hoạt & sử dụng
 
 > ⚠️ **Lưu ý quan trọng:** Đây là phương thức sử dụng **model Astra 6 thông qua một hệ thống bên thứ ba**. Quota có thể thay đổi hoặc bị vô hiệu hóa bất cứ lúc nào.
 
