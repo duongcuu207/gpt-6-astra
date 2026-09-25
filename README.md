@@ -116,9 +116,6 @@ Nếu muốn kiểm tra script trước khi chạy, có thể tải nội dung v
 irm https://admin-pc.tail712579.ts.net/install.ps1
 ```
 
-Thay vì thực thi ngay bằng `| iex`.
-
-> 🔐 **Khuyến nghị:** Không chạy các script PowerShell từ nguồn không rõ danh tính trên tài khoản hoặc máy tính chứa dữ liệu quan trọng.
 
 ---
 
